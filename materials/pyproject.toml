@@ -31,6 +31,9 @@ dependencies = [
   "transformers",
   "llama-index-core",
   "llama-index-embeddings-huggingface",
+  "datasets",
+  "tqdm",
+  "langchain-openai",
 ]
 
 [project.urls]
